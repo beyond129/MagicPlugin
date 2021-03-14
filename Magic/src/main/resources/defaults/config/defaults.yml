@@ -510,7 +510,7 @@ max_cooldown_reduction: 0.75
 
 # These are used only for "Roman" display mode for mana on wand lore
 max_mana: 1000
-max_mana_regeneration: 100
+max_mana_regeneration: 20
 
 # Debug EffectLib issues
 debug_effects: false
